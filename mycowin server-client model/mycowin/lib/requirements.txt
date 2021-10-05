@@ -1,0 +1,11 @@
+#pip install -r 'requirements.txt'
+
+daterange==0.2
+DateTime==4.3
+Flask==2.0.1
+json5==0.9.5
+jsonschema==3.2.0
+python-dateutil==2.8.1
+pytz==2020.4
+tzlocal==2.1
+requests==2.25.1
