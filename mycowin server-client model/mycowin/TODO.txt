@@ -1,7 +1,3 @@
 Check notification icons rendering in release apps.
 
 Add a white icon for use as status bar icon
-
-ListView builder for results
-
-Scrollable view for other text based results

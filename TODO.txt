@@ -1,0 +1,16 @@
+version 4
+
+enhance ui for status display
+
+icon renderings for android notification
+
+-------------------
+
+version 5
+
+standalone app
+
+provide filter options
+
+----------------
+
