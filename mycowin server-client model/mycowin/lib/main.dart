@@ -8,7 +8,7 @@ import 'package:flutter_ringtone_player/flutter_ringtone_player.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 // FILES
 import 'sessiondetailscreen.dart';
-import 'package:mycowin2/lastcentersdetailscreen.dart';
+import 'package:mycowin/lastcentersdetailscreen.dart';
 
 // <<< Update your app-server address in this file at line "final response = await http
 //        .get(Uri.parse('SERVER_ADDRESS_HERE')) >>>
